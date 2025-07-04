@@ -37,7 +37,7 @@ on:
           - 'oneplus_ace_pro'
           - 'oneplus_10_pro'
           - 'oneplus_ace_3v'
-        default: 'oneplus_12'
+        default: 'oneplus_ace5'
         
       CPUD:
         description: "处理器代号"
@@ -85,7 +85,7 @@ on:
        options:
           - 'On'
           - 'Off'
-       default: 'Off'
+       default: 'On'
        
       bbr:
        description: "是否启用bbr算法(优化上行数据, 对手机日用无太大意义甚至可能负优化)"
