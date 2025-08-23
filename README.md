@@ -2,8 +2,6 @@
 
 # 觉得好用可以
 
-![image](https://github.com/user-attachments/assets/331a44ba-c666-4368-87d6-df55de482b58)
-
 ### [```OnePlus kernel 开源地址```](https://github.com/Xiaomichael/kernel_manifest)
 
 > [!TIP]
