@@ -1,7 +1,5 @@
 # 求``⭐⭐star⭐⭐``
 
-# 觉得好用可以
-
 ### [```OnePlus kernel 开源地址```](https://github.com/Xiaomichael/kernel_manifest)
 
 > [!TIP]
